@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="60%" align="left">
   
 - 🌱 I’m currently learning **Software Testing Techniques (Manual & Automated)**
 
@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
- <img align="right" top="500" height="300" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
   
   </td>
